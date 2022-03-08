@@ -68,7 +68,7 @@ echo '</ul>';
 
 //debug
 //echo "<pre>";
-var_dump($_REQUEST);
+//var_dump($_REQUEST);
 
 ?>
 <form action="hello.php" method="get">
